@@ -1,3 +1,3 @@
 # card-game
 
-## link : http://andrewti.github.io/card-game/
+## link : http://AndrewTi.github.io/card-game/
